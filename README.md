@@ -18,9 +18,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Tools and Software
 
-- **LC-MS/MS Data Analysis** - Techniques for liquid chromatography-mass spectrometry analysis, essential for metabolomics research.
+- **XCMS and MZmine**: Comprehensive platforms for processing LC-MS data, offering feature detection, alignment, and quantification. Essential for in-depth metabolomics analysis.
 
-- **GC-MS/MS Data Analysis** - Methods for gas chromatography-mass spectrometry, crucial for identifying and quantifying metabolites.
+- **asari**: A cutting-edge tool addressing mass alignment and feature selection issues, implementing the "mass track" concept for improved metabolite identification accuracy. [Learn more about asari](https://www.nature.com/articles/s41467-020-19552-7)
+
+- **CSI:FingerID within SIRIUS**: Facilitates compound identification by predicting molecular formulas and matching them against database entries, using mass spectrometry data. [Explore CSI:FingerID](https://www.nature.com/articles/s41592-019-0344-8)
+
+- **MetaboAnalyst**: A web-based platform for comprehensive metabolomics data analysis, including statistical analysis and pathway analysis. [Visit MetaboAnalyst](https://www.metaboanalyst.ca/)
 
 ## Learning Resources
 
